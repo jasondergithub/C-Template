@@ -1,11 +1,12 @@
 ## Pattern Oriented Software Design, Fall 2021
 - Instructor: Prof. Y C Cheng
-- Time: Wed 2-3-4, 
-- Place: 
+- Office hours: 1:30pm - 4:30pm, Wed 
+- Class meeting time: Wed 2-3-4
+- Class meeting place: 
   - CB2-207 (when physical class resumes)
   - [Microsoft Teams](https://teams.microsoft.com/l/team/19%3aVgURaz5E9ggyNsJ5txN0xtBb3KA05czf8-h2DKot7F01%40thread.tacv2/conversations?groupId=06658c8d-9640-47a5-a33f-4ce8d6c1df57&tenantId=dfb5e216-2b8a-4b32-b1cb-e786a1095218) (when distance learning is in effect)
 - TA: Sandy Chen, Rui Chen (rm 1324 S&T)
-- office hours: TBA
+- Office hours: TBA
 
 ### Synopsis
 

@@ -1,8 +1,13 @@
-Pattern Oriented Software Design, Fall 2021
-Instructor: Prof. Y C Cheng
-TA: Sandy Chen, Rui Chen (rm 1324 S&T)
+## Pattern Oriented Software Design, Fall 2021
+- Instructor: Prof. Y C Cheng
+- Time: Wed 2-3-4, 
+- Place: 
+  - CB2-207 (when physical class resumes)
+  - [Microsoft Teams](https://teams.microsoft.com/l/team/19%3aVgURaz5E9ggyNsJ5txN0xtBb3KA05czf8-h2DKot7F01%40thread.tacv2/conversations?groupId=06658c8d-9640-47a5-a33f-4ce8d6c1df57&tenantId=dfb5e216-2b8a-4b32-b1cb-e786a1095218) (when distance learning is in effect)
+- TA: Sandy Chen, Rui Chen (rm 1324 S&T)
+- office hours: TBA
 
-## online class meeting url: TBA
+### Synopsis
 
 This course aims to build a foundation for students to build software with design patterns and mainstream programming paradigms used in modern software development. We will also cover the SOLID principles of object-oriented design. These topics will be threaded with a long running example developed in the classroom with participation from students and with state-of-the-art engineering practices. A real-world example to illustrate the use of design patterns wraps up this course.
 

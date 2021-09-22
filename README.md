@@ -37,10 +37,10 @@ SOLID principles examine object-oriented design principles behind software desig
 The main part of lectures is threaded with a long running example involving the creation,  manipulation, and storage of geometric shapes. Development of the example is done mostly (if not entirely) in class meetings; it is done iteratively and incrementally and with test-driven development, mob programming, and continuous integration. Source code is available to class participants through a repository.
 
   - engineering practices
-    - HTSI: _understanding the problem_, _devising a plan_, _carrying out the plane_, and _looking back_
+    - HTSI: _understanding the problem_, _devising a plan_, _carrying out the plan_, and _looking back_
     - mob programming with strong style pair programming
       - class participants will take turn playing the roles of _driver_ and _navigator_
-    - code proceeded by tests: _failing test-passing test-refactoring_
+    - code proceeded by tests: _failing test-passing test-refactoring_ _TDD_
     - source control through git
     - program builds through builders and continuous integration
 
@@ -69,3 +69,29 @@ A program for manipulating geometric shapes is needed. With the program, the use
 - Move shapes from a compound shape to another compound shape;
 - Select shapes by Boolean expression on the properties area, perimeter, color and type; and
 - Load/store shapes from/into a file.
+
+**Week1**
+
+Problem space
+- Read the problem together
+- Find the main subproblems
+- Organized subproblem by a tree
+```
+Sorting shapes
+├── console IO
+├── file IO
+├── representation
+│   ├── square
+│   └── circle
+└── computation
+    ├── area
+    ├── perimeter
+    └── sorting
+```
+
+Solution space
+- Folder structure: src, test and bin
+- Builder: make and makefile
+
+TDD
+- google test

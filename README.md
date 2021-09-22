@@ -10,9 +10,9 @@
 
 ### Synopsis
 
-This course aims to build a foundation for students to build software with design patterns and mainstream programming paradigms used in modern software development. We will also cover the SOLID principles of object-oriented design. These topics will be threaded with a long running example developed in the classroom with participation from students and with state-of-the-art engineering practices. A real-world example to illustrate the use of design patterns wraps up this course.
+This course aims to build a foundation for students to build software with design patterns and mainstream programming paradigms used in modern software development. We will also cover the SOLID principles of object-oriented design. These topics will be threaded with a long running example developed in the classroom with participation from students and with state-of-the-art engineering practices. A real-world example to illustrate the use of design patterns wraps up this course. This will take place on Saturday, Dec 18, 2021, by guest lecturer Kurt Hsu of VeryBuy.
 
-Design patterns examines reusable solutions to object oriented design problems in software developed in object-oriented languages like C++, Java, Python, Ruby, OCaml and so on.  
+Design patterns examines reusable solutions to object oriented design problems (maintainable, extendable, etc.) in software developed in object-oriented languages like C++, Java, Python, Ruby, OCaml and so on.  
 
   - design patterns
     - individual patterns by category as they are encountered in the running example
@@ -22,8 +22,8 @@ Design patterns examines reusable solutions to object oriented design problems i
 The programming paradigms affect how design patterns are implemented. Although object orientation is the the main paradigm, other paradigms that contribute to a cleaner implementation are examined in the context of design patterns implementation.
 
   - programming paradigms
-    - procedure (ad hoc polymorphism)
-    - function
+    - procedure (ad hoc polymorphism, c, python)
+    - function (math functions lisp, scheme, ...)
     - generics and templates (static polymorphism)
     - object orientation (dynamic polymorphism)
     - static typing vs dynamic typing

@@ -81,12 +81,13 @@ Sorting shapes
 ├── console IO
 ├── file IO
 ├── representation
-│   ├── square
+│   ├── square 1
 │   └── circle
 └── computation
-    ├── area
+    ├── area 2
     ├── perimeter
-    └── sorting
+    └── sorting 3
+        └── stl sort 4
 ```
 
 Solution space
